@@ -26,3 +26,6 @@ This script will create a WooCommerce product for your online bookshop from a Ga
 
 6. The program will ask if you want to add another product. Entering 'y' will ask you to enter another url, and entering 'n'
 	will close the program.
+
+7. The script cannot add categories so after you have finished adding books you will need to add these manually through
+	your WooCommerce product page.
