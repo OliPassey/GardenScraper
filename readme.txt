@@ -15,9 +15,9 @@ This script will create a WooCommerce product for your online bookshop from a Ga
 	generated. The shop url should lead to the homepage of the website your online shop is on.
 	Make sure you don't change the formatting of this file in any way by adding extra lines etc.
 	Save changes and close the file. You will only need to do this the first time you run the program.
-	Make sure SETUP.txt is in the same folder as GardenScraper.exe before running the program.
+	Make sure SETUP.txt is in the same folder as GardenScraper2.exe before running the program.
 
-4. Run GardenScraper.exe. You will probably get a warning from your computer's antivirus but you can ignore this and run the script anyway.
+4. Run GardenScraper2.exe. You will probably get a warning from your computer's antivirus but you can ignore this and run the script anyway.
 	It may take a short while to load text. the program will display the details you added to SETUP.txt 
 	and ask for a Gardeners product url. Paste the url of the book you want to add and hit enter.
 
