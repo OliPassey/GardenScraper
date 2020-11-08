@@ -5,7 +5,7 @@ This script will create a WooCommerce product for your online bookshop from a Ga
 ### INSTRUCTIONS ###
 
 1. Download files from github using the green download button at the top right of the page. 
-	Select 'download zip' from the dropdown.
+	Select 'download zip' from the dropdown then extract the file after it has downloaded.
 
 2. Use the instructions from the link below to generate a consumer key and consumer secret for your WooCommerce shop
 	https://docs.woocommerce.com/document/woocommerce-rest-api/#section-2
@@ -17,7 +17,8 @@ This script will create a WooCommerce product for your online bookshop from a Ga
 	Save changes and close the file. You will only need to do this the first time you run the program.
 	Make sure SETUP.txt is in the same folder as GardenScraper.exe before running the program.
 
-4. Run GardenScraper.exe, it may take a short while to load text. the program will display the details you added to SETUP.txt 
+4. Run GardenScraper.exe. You will probably get a warning from your computer's antivirus but you can ignore this and run the script anyway.
+	It may take a short while to load text. the program will display the details you added to SETUP.txt 
 	and ask for a Gardeners product url. Paste the url of the book you want to add and hit enter.
 
 5. The program will display the details found from Gardeners, then a large block of text showing the information sent to your
