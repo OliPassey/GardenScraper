@@ -11,8 +11,8 @@ This script will create a WooCommerce product for your online bookshop from a Ga
 	https://docs.woocommerce.com/document/woocommerce-rest-api/#section-2
 	Remember these details as they will be inaccesible once you close the page.
 
-3. Open the SETUP.txt file and add your Gardeners login details as well as the consumer key and consumer secret that you just generated.
-	The shop url should lead to the homepage of the website your online shop is on.
+3. Open the SETUP.txt file and add your Gardeners login details as well as the consumer key and consumer secret that you just 
+	generated. The shop url should lead to the homepage of the website your online shop is on.
 	Make sure you don't change the formatting of this file in any way by adding extra lines etc.
 	Save changes and close the file. You will only need to do this the first time you run the program.
 	Make sure SETUP.txt is in the same folder as GardenScraper.exe before running the program.
