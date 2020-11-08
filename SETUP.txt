@@ -1,0 +1,16 @@
+### GARDENERS LOGIN ###
+### See readme.txt for instructions ###
+
+Please replace the text below with Gardeners account number, username and password:
+ACCOUNT_NUMBER_HERE
+USERNAME_HERE
+PASSWORD_HERE
+
+Please replace example link below with shop website link:
+http://example.com
+
+Please type WooCommerce API consumer key below (see readme.txt for more details)
+ck_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Please type WooCommerce API consumer secret below (see readme.txt for more details)
+cs_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
