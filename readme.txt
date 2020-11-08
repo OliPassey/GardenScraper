@@ -4,7 +4,8 @@ This script will create a WooCommerce product for your online bookshop from a Ga
 
 ### INSTRUCTIONS ###
 
-1. Download files from github using the green download button at the top right of the page. Select 'download zip' from the dropdown.
+1. Download files from github using the green download button at the top right of the page. 
+	Select 'download zip' from the dropdown.
 
 2. Use the instructions from the link below to generate a consumer key and consumer secret for your WooCommerce shop
 	https://docs.woocommerce.com/document/woocommerce-rest-api/#section-2
